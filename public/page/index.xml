@@ -16,12 +16,44 @@
         <description></description>
         </item>
         <item>
-        <title>关于</title>
-        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <title>关于本站</title>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;我是真头秃啊。&lt;/p&gt;
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/</guid>
+        <description>&lt;!-- &lt;div style=&#34;background-color:rgba(34, 34, 51, 0.51); color: white; padding: 15px; border-left: 6px solid #7575a2;&#34;&gt;
+    &lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;本站的搭建参考了诸多教程，其中帮助最大的是&lt;a href=&#34;https://letere-gzj.github.io/hugo-stack/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;letere&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;本人前端苦手，所以本站搭建多数内容其实借助了cursor来完成，非常好用的AI工具。&lt;/li&gt;
+        &lt;li&gt;本站内容可能包含了&lt;code&gt;文章阅读&lt;/code&gt;、&lt;code&gt;学习笔记&lt;/code&gt;、&lt;code&gt;生产思考&lt;/code&gt;等内容，希望是有技术价值和分享价值的内容。&lt;/li&gt;
+        &lt;li&gt;本页主要内容其实是本站的更新日志，希望能记录下所有努力的脚步。&lt;/li&gt;
+        &lt;li&gt;感谢看完这个碎碎念的前言，喜欢您来，这里有我所有天马行空的思考。&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt; --&gt;
+&lt;div style=&#34;background-color:rgba(34, 34, 51, 0.51); color: white; padding: 15px; border-left: 6px solid #7575a2;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;前言&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本站的搭建参考了诸多教程，其中帮助最大的是&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;letere&lt;/strong&gt;&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;本人前端苦手，所以本站搭建多数内容其实借助了cursor来完成，非常好用的AI工具。&lt;/li&gt;
+&lt;li&gt;本站内容可能包含了&lt;code&gt;文章阅读&lt;/code&gt;、&lt;code&gt;学习笔记&lt;/code&gt;、&lt;code&gt;生产思考&lt;/code&gt;等内容，希望是有技术价值和分享价值的内容。&lt;/li&gt;
+&lt;li&gt;喜欢您来，这里有我所有天马行空的思考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;!-- Added: 新增的功能或内容。
+Changed: 对现有功能或内容的修改。
+Deprecated: 已不推荐使用但尚未移除的功能或内容。
+Removed: 已从产品中删除的功能或内容。
+Fixed: 修复的问题或错误。
+Security: 针对安全漏洞的修复。 --&gt;
+&lt;h2 id=&#34;100&#34;&gt;1.0.0
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;2025-04-25 初始发布&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[特性] 包含分类、标签、搜索功能，方便内容组织及查找。&lt;/li&gt;
+&lt;li&gt;[特性] 技术站点页提供技术网站外链。&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -30,8 +62,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/%E6%8A%80%E6%9C%AF%E7%AB%99%E7%82%B9/</guid>
-        <description>&lt;p&gt;本站可能涉及到的技术网站如下。&lt;/p&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>搜索</title>

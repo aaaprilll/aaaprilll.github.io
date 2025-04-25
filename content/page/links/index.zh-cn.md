@@ -8,15 +8,15 @@ links:
   - title: Stack
     description: 本站hugo主题
     website: https://github.com/CaiJimmy/hugo-theme-stack
-    image: https://raw.githubusercontent.com/CaiJimmy/hugo-theme-stack/master/images/screenshot.png
+    image: https://themes.gohugo.io/themes/hugo-theme-stack/screenshot_hu_45ccd9fee343181e.webp
   - title: Cursor
     description: AI代码编辑器
     website: https://www.cursor.com/cn
     image: https://www.cursor.com/_next/static/media/placeholder-logo.737626f1.webp
-  - title: 尚硅谷
-    description: IT培训教程
-    website: https://space.bilibili.com/302417610?spm_id_from=333.337.0.0
-    image: https://www.atguigu.com/images/index_new/logo.png
+  - title: Markdown
+    description: 轻量级标记语言
+    website: https://markdown.com.cn/
+    image: https://markdown.com.cn/hero.png
 menu:
     main: 
         weight: -10
@@ -25,6 +25,4 @@ menu:
 
 comments: false
 ---
-
-本站可能涉及到的技术网站如下。
 
